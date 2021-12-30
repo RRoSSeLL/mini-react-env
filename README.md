@@ -1,2 +1,2 @@
 # mini-react
-Minimal react implementation
+Minimal React Implementation
